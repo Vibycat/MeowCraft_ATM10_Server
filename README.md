@@ -5,6 +5,8 @@ Welcome to **MeowCraft**! This guide gets you from zero to playing **All The Mod
 > **Server Name:** MeowCraft  
 > **Server Address (IP:Port):** `73.14.184.127:25565`  
 > **Modpack:** All The Mods 10 (ATM10)
+> You will need to be whitelisted on the server before joining!
+> Submit a request form to be whitelisted here: https://shorturl.at/iigE8
 
 ---
 
