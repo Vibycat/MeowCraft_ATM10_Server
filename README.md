@@ -50,6 +50,7 @@ Welcome to **MeowCraft**! This guide gets you from zero to playing **All The Mod
 - [FTB App Docs](https://docs.feed-the-beast.com/docs/app/Guides/getting-started/)  
 - [ATM10 CurseForge Page](https://www.curseforge.com/minecraft/modpacks/all-the-mods-10)  
 - [All The Guides (Tips for ATM)](https://allthemods.github.io/alltheguides/)
+- [https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/relations/dependencies]
 
 ---
 
