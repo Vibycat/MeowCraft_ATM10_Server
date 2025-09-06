@@ -41,7 +41,7 @@ Welcome to **MeowCraft**! This guide gets you from zero to playing **All The Mod
 2. Click **Add Server**.  
 3. Enter:
    - **Server Name:** MeowCraft  (You can name this whatever you want.) 
-   - **Server Address:** `73.14.184.127:25565`  
+   - **Server Address:** `ask me:25565`  
 4. Click **Done**, then select the server and **Join**.
 
 ---
