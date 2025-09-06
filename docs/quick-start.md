@@ -5,5 +5,5 @@
 3) Launch ATM10 from the FTB App.  
 4) Multiplayer → Add Server  
    - Name: MeowCraft  
-   - Address: 73.14.184.127:25565  
+   - Address: ask me:25565  
 5) Click Join. Have fun!
